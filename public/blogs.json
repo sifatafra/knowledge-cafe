@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/mDGfg6X/high-angle-shot-quill-pen-old-book-covered-with-dried-flower-petals.jpg",
+        "title": "Getting Started with Web Development",
+        "author": "John Doe",
+        "author_img": "https://example.com/author1.jpg",
+        "posted_date": "2023-April-12",
+        "hashtags": [
+            "webdev",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "reading_time": 8
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/k66rfxB/aerial-view-businessman-using-computer-laptop.jpg",
+        "title": "Mastering CSS Grid Layout",
+        "author": "Jane Smith",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "2023-May-10",
+        "hashtags": [
+            "webdev",
+            "CSS",
+            "layout"
+        ],
+        "reading_time": 10
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/2k0cj4h/business-women-signature-document.jpg",
+        "title": "Building Responsive Websites",
+        "author": "Michael Johnson",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2023-July-08",
+        "hashtags": [
+            "webdev",
+            "HTML",
+            "CSS",
+            "responsive"
+        ],
+        "reading_time": 12
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/ZdvNJhr/media-journalism-global-daily-news-content-concept.jpg",
+        "title": "JavaScript Fundamentals",
+        "author": "Sarah Wilson",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "2023-October-05",
+        "hashtags": [
+            "webdev",
+            "JavaScript",
+            "fundamentals"
+        ],
+        "reading_time": 7
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/r69HbYf/aerial-view-computer-laptop-wooden-table-photography-hobby-concept.jpg",
+        "title": "React.js for Beginners",
+        "author": "David Brown",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "2023-September-03",
+        "hashtags": [
+            "webdev",
+            "React",
+            "beginners"
+        ],
+        "reading_time": 9
+    }
+]
